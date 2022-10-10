@@ -1,10 +1,2 @@
-
-<canvas id="canvas"></canvas>
-
-<script>
-const canvas = document.getElementById("canvas");
-const ctx = canvas.getContext("2d");
-
-ctx.fillStyle = "green";
-ctx.fillRect(10, 10, 150, 100);
-</script>
+<iframe width="W" height="H" style="border: 0;" scrolling="no"
+    src="life.html?params"></iframe>
