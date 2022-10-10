@@ -2,5 +2,5 @@
 # Hi, I'm [flysand](https://github.com/flysand7)
 
 <div align="center">  
-  ![](https://thumbs.gfycat.com/IncredibleShamefulCalf-size_restricted.gif)
+  <img src=https://thumbs.gfycat.com/IncredibleShamefulCalf-size_restricted.gif>
 </div>
