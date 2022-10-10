@@ -1,2 +1,1 @@
-<iframe width="W" height="H" style="border: 0;" scrolling="no"
-    src="life.html?params"></iframe>
+![](https://thumbs.gfycat.com/IncredibleShamefulCalf-size_restricted.gif)
